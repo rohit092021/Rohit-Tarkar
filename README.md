@@ -1,19 +1,19 @@
 <img src="HARSH SHARMA.gif" alt="Myself" width="850" height="470">
 
 
-<h1 align="center">Hi 👋, I'm Harsh Sharma</h1>
+<h1 align="center">Hi 👋, I'm Rohit</h1>
 <h3 align="center">A passionate CSE student from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-sharma-z&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-sharma-z" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rohit&label=Profile%20views&color=0e75b6&style=flat" alt="Rohit" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsh-sharma-z" alt="harsh-sharma-z" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rohit" alt="Rohit" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
 - 🔭 I’m currently working on self-improvement
-- 🌱 I’m currently learning DSA and Android Development.
-- 📫 How to reach me: https://www.linkedin.com/in/harsh-sharma-105044200
+- 🌱 I’m currently learning DSA and Web Development.
+- 📫 How to reach me: https://www.linkedin.com/in/rohit-tarkar-17373121a/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My hobby is poetry.
 
@@ -25,7 +25,7 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/harsh-sharma-105044200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harsh-sharma-105044200" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rohit-tarkar-17373121a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https:https://www.linkedin.com/in/rohit-tarkar-17373121a/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100009691598308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009691598308" height="30" width="40" /></a>
 <a href="https://instagram.com/harsh_sharma_z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harsh_sharma_z" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/harsh_sharmaz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harsh_sharmaz" height="30" width="40" /></a>
@@ -49,11 +49,11 @@
 
 <br/>  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh-sharma-z&show_icons=true&locale=en&layout=compact" alt="harsh-sharma-z" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit&show_icons=true&locale=en&layout=compact" alt="rohit" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh-sharma-z&show_icons=true&locale=en" alt="harsh-sharma-z" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh-sharma-z&show_icons=true&locale=en" alt="rohit" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-sharma-z&" alt="harsh-sharma-z" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-sharma-z&" alt="rohit" /></p>
 
 
 <p align="center" >
