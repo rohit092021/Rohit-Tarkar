@@ -1,4 +1,4 @@
-<img src="HARSH SHARMA.gif" alt="Myself" width="850" height="470">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fflamingtext.com%2FName-Logos%2FRohit%2F&psig=AOvVaw3vLkGJ59E3fdg0T2E5yMlU&ust=1669281539013000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKiB5Lr8w_sCFQAAAAAdAAAAABAO" alt="Myself" width="850" height="470">
 
 
 <h1 align="center">Hi 👋, I'm Rohit</h1>
